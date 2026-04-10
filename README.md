@@ -27,12 +27,11 @@ I am a dedicated BSc (Hons) Computer Science undergraduate at Sri Lanka Institut
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akinda-udaneth" target="_blank" style="display: inline-block; animation: bounce 2s infinite;">
+  <a href="https://linkedin.com/in/akinda-udaneth" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/AkindaUdaneth" target="_blank" style="display: inline-block; animation: bounce 2s infinite 0.5s;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AkindaUdaneth" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
   </a>
 </p>
@@ -45,51 +44,57 @@ I am a dedicated BSc (Hons) Computer Science undergraduate at Sri Lanka Institut
 
 <p align="center">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 15px 25px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="55" height="55" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 15px 25px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="55" height="55" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ballerina.io/" target="_blank">
-    <img src="https://ballerina.io/images/ballerina-logo.svg" alt="Ballerina" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 15px 25px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://ballerina.io/images/ballerina-logo.svg" alt="Ballerina" width="55" height="55" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 15px 25px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" />
   </a>
 </p>
 
 ### 💻 **Frontend Development**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55" style="animation: float 3s ease-in-out infinite; display: inline-block; margin: 15px 25px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55" style="animation: float 3s ease-in-out infinite 0.2s; display: inline-block; margin: 15px 25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55" />
 </p>
 
 ### 🗄️ **Databases & Tools**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="transition: all 0.3s; display: inline-block; margin: 15px 25px;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00758F)'" onmouseout="this.style.filter='none'" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" style="transition: all 0.3s; display: inline-block; margin: 15px 25px;" onmouseover="this.style.filter='drop-shadow(0 0 8px #4DB33D)'" onmouseout="this.style.filter='none'" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="display: inline-block; margin: 15px 25px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" style="display: inline-block; margin: 15px 25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="55" height="55" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkindaUdaneth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&ring_color=58A6FF&border_color=30363D" alt="GitHub Stats" style="box-shadow: 0 0 20px rgba(88, 166, 255, 0.2); border-radius: 10px; margin: 10px;" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkindaUdaneth&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_color=30363D" alt="Top Languages" style="box-shadow: 0 0 20px rgba(88, 166, 255, 0.2); border-radius: 10px; margin: 10px;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkindaUdaneth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkindaUdaneth&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkindaUdaneth&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=FFFFFF" alt="Activity Graph" width="90%" style="border-radius: 10px; margin-top: 20px;" />
-</div>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkindaUdaneth&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=FFFFFF" alt="Activity Graph" width="90%" />
+</p>
 
 ---
 
