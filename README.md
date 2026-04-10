@@ -82,12 +82,12 @@ I am a dedicated BSc (Hons) Computer Science undergraduate at Sri Lanka Institut
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkindaUdaneth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkindaUdaneth&show_icons=true&theme=github_dark&hide_border=true&v=1" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkindaUdaneth&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkindaUdaneth&layout=compact&theme=github_dark&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
 </p>
 
 <br>
