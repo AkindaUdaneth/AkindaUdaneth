@@ -85,9 +85,7 @@ I am a dedicated BSc (Hons) Computer Science undergraduate at Sri Lanka Institut
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkindaUdaneth&show_icons=true&theme=github_dark&hide_border=true&v=1" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkindaUdaneth&layout=compact&theme=github_dark&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkindaUdaneth&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -123,4 +121,19 @@ I am a dedicated BSc (Hons) Computer Science undergraduate at Sri Lanka Institut
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </div>
   
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<div align="center">
+
+| Area | Focus Level | Progress |
+| :--- | :--- | :--- |
+| **⚙️ Backend Dev (Java, Spring, Ballerina)** | Primary Focus | `████████████░░░░░░░░` **60%** |
+| **🌐 Frontend Dev (React, TS)** | Moderate Focus | `███████░░░░░░░░░░░░░` **35%** |
+| **📊 Data Science & Big Data** | Growing Focus | `█████░░░░░░░░░░░░░░░` **25%** |
+| **🏗️ System Architecture & Parallel Comp** | Learning Phase | `████░░░░░░░░░░░░░░░░` **20%** |
+
 </div>
