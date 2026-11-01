@@ -55,7 +55,7 @@ I am a dedicated BSc (Hons) Computer Science undergraduate at Sri Lanka Institut
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkindaUdaneth&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=FFFFFF" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph-rho-three.vercel.app/graph?username=AkindaUdaneth&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=FFFFFF" alt="Activity Graph" width="90%" />
 </p>
 
 ---
